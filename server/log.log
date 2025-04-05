@@ -1,0 +1,10 @@
+[INFO] 15:52:12:391 Servidor/(8938:8938): Servidor listo para recibir al cliente
+[INFO] 16:19:41:589 Servidor/(8938:8938): Se conecto un cliente!
+[INFO] 16:19:41:589 Servidor/(8938:8938): Me llego el mensaje valor
+[INFO] 16:19:52:569 Servidor/(8938:8938): Me llegaron los siguientes valores:
+
+[INFO] 16:19:52:570 Servidor/(8938:8938): adios
+[INFO] 16:19:52:570 Servidor/(8938:8938): adios
+[INFO] 16:19:52:570 Servidor/(8938:8938): aduias
+[INFO] 16:19:52:570 Servidor/(8938:8938): 
+[ERROR] 16:19:52:570 Servidor/(8938:8938): el cliente se desconecto. Terminando servidor
